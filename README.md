@@ -4,7 +4,7 @@
 
 
 
-![header image](/assets/imdb_header2.png)
+![header image](/assets/header_image.png)
 
 
 
