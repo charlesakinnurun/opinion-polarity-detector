@@ -16,6 +16,10 @@
 
 <p>What I learned</p>
 
+- How natural language processing (NLP) classifies text into sentiment categories, making it easier to analyze opinions in large datasets (e.g., reviews or social media) and support insights like customer feedback or social media monitoring.
+
+
+<!--
 - How natural language processing (NLP) to classifies text into sentiment categories (e.g., positive or negative).
 
 - Understand overall opinions in large collections of text, such as reviews or social media content.
@@ -24,10 +28,15 @@
 
 - Supports insights for applications like customer feedback analysis or social media monitoring.
 
+-->
 
 
 <p> What I did</p>
 
+
+
+
+<!--
 - Built a modular Python sentiment analysis pipeline covering data loading, preprocessing, model training, evaluation, and prediction.
 
 - Processed and engineered features from the IMDb dataset (50,000 reviews), handling missing values and encoding sentiments.
@@ -36,10 +45,12 @@
 
 - Created visualizations (sentiment distribution, confusion matrices, model comparisons) and documented the workflow in a clear README.
 
+-->
 
 
+- Developed a sentiment analysis pipeline on the IMDb dataset, including data loading, preprocessing, feature engineering, and model training with multiple algorithms (Logistic Regression, Decision Tree, Naive Bayes) and hyperparameter tuning (~81–93% accuracy).
 
-
+- Generated visualizations (sentiment distribution, confusion matrices, model comparisons) and documented the entire workflow for clarity and reproducibility.
 
 
 
