@@ -2,7 +2,7 @@
 
 
 
-<!-- ![header image](/assets/header_image.png)-->
+![header image](/assets/header_image.png)
 
 <!-- ![](/assets/imdb.png) -->
 
