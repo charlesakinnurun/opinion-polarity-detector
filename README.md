@@ -8,7 +8,9 @@
 
 <!-- ![header](assets\IMDb_id7sd00bOY_1.png)-->
 
-![header](/assets/front_header.webp)
+<!-- ![header](/assets/front_header.webp) -->
+
+![header](/assets/image%20(6).webp)
 
 <h1 align="center"> Opinion Polarity Detection</h2>
 
