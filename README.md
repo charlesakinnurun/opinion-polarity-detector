@@ -18,12 +18,12 @@
 <!--![imdb header](/assets/imdb_header.png)-->
 
 
-
+<!--
 
 <p>What I learned</p>
 
 - How natural language processing (NLP) classifies text into sentiment categories, making it easier to analyze opinions in large datasets (e.g., reviews or social media) and support insights like customer feedback or social media monitoring.
-
+-->
 
 <!--
 - How natural language processing (NLP) to classifies text into sentiment categories (e.g., positive or negative).
